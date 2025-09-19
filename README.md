@@ -5,7 +5,7 @@ Meeting Point connects people with the same goal.
 Users create a meeting profile that includes:
 - real time selfie
 - name
-- meeting goal
+- meeting goal 
 - short free-text description.
 Profile must be saved successfully in order to be visible.
 
@@ -22,6 +22,8 @@ Profiles are automatically removed when users leave the location or tap the leav
 If the app is asleep or closed for 30 minutes, the profile disappears until user returns.
 Logging out also instantly removes the profile from the lists.
 
+
+For any quastion please send us email : novo.yn@gmail.com 
 
 
 
