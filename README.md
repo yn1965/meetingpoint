@@ -7,7 +7,8 @@ Users create a meeting profile that includes:
 - name
 - meeting goal 
 - short free-text description.
-Profile must be saved successfully in order to be visible.
+- 
+!!! Profile must be saved successfully in order to be visible.
 
 Next, you confirm your current location in the location view.
 
