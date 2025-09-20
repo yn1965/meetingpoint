@@ -23,7 +23,7 @@ If the app is asleep or closed for 30 minutes, the profile disappears until user
 Logging out also instantly removes the profile from the lists.
 
 
-For any quastion please send us email : novo.yn@gmail.com 
+For any question please send us email : novo.yn@gmail.com 
 
 
 
