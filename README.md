@@ -9,6 +9,7 @@ On the profile view user create a meeting profile that includes:
 - short free-text description.
 
 (*) meeting goal
+
 You can choose one of the following four options as the purpose of your meeting:
 1. Date – If you're looking to meet someone for dating.
 2. Partner – If you're looking for a partner for any activity you intend to do (e.g., sports, study, travel).
