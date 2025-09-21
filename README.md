@@ -24,7 +24,7 @@ You can choose one of the following four options as the purpose of your meeting:
 
 Next , go to the location view and confirm your current location.
 
-The Nearby view displays nearby users (up to 100m radius) with the same goal, along with direction and distance. you can follow the direction guidance to reach a face-to-face meeting with the nearby user.
+The Nearby view displays nearby users (up to 100m radius) with the same meeting goal, along with direction and distance. you can follow the direction guidance to reach a face-to-face meeting with the nearby user.
 
 Users can choose to make their profile visible or hidden.
 You can remove non-relevant nearby users, removal is mutual, once you hide someone, you’re also removed from their list.
